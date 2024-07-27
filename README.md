@@ -15,6 +15,6 @@ python 'ip finder.py'
 PASSWORD = AB12I12
 
 
- IP _ TRACKING  💥 
+ IP _ TRACKING  ❤️💥 
 
 ```
